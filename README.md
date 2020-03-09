@@ -1,6 +1,6 @@
 # Steganography
 
-This is the 1st Coursework for F28HS_Hardware-Software Interface, 2nd year of Bsc Computer Science.
+This is the 1st Coursework for F28HS Hardware-Software Interface, 2nd year of Bsc Computer Science.
 
 This is a program that would be used for encoding a message into an image in .ppm format using a secret key, and retrieve it using the same secret key. This is my version of it.
 
